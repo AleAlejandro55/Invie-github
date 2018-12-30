@@ -1,2 +1,4 @@
-# Invie-github
-Proyecto platzi - guitarras by platzi V:
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
